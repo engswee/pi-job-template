@@ -1,0 +1,11 @@
+<job-definitions>
+	<job-definition name="TemplateJob"
+		description="Template AS Java Job">
+		<!-- Sample parameters
+		<job-definition-parameter name="SampleInputParameter"
+			data-type="Integer" direction="IN" />			
+		<job-definition-parameter name="SampleOutputParameter"
+			data-type="Integer" direction="OUT" />
+		-->
+	</job-definition>
+</job-definitions>
